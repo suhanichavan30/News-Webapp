@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.para::-webkit-scrollbar{
+    display: none;
+}
+.btn:hover{
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.6);
+    color: rgb(7, 4, 4);
+}
