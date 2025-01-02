@@ -18,36 +18,33 @@ Prerequisites:
 Node.js and npm installed on your machine.
 
 Steps to Run Locally
+
+
 Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/your-username/newsapp.git
+git clone https://github.com/suhanichavan30/News-Webapp.git
+
 Navigate into the project directory:
 
-bash
-Copy code
 cd newsapp
+
+
 Install the necessary dependencies:
 
-bash
-Copy code
 npm install
+
+
 Create a .env file in the root directory and add your News API key:
 
-makefile
-Copy code
-REACT_APP_NEWS_API_KEY=your_api_key_here
+VITE_NEWS_API_KEY=your_api_key_here
+
+
 Start the development server:
 
-bash
-Copy code
 npm start
 
 
 Start the development server:
-
-bash
 
 npm start
 
