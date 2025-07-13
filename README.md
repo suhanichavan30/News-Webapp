@@ -63,7 +63,7 @@ Click on any news headline to read the full article.
 
 ---
 
-## 🗼️ Screenshots
+## 📸 Screenshots (Demo) :
 
 ![news](https://github.com/user-attachments/assets/c364c7cf-90ad-489f-8b4c-ac90e05eafb9)
 
